@@ -45,7 +45,7 @@ const Contact = () => {
             <div class="container">                
                 <Fade bottom duration={1000}>
                     <h1 className="white--header">
-                        <span>Contact us and get your MTF360.io assesment today!</span>
+                        <span>Contact us and get your M360 assesment today!</span>
                     </h1>
                 </Fade>
                 <form
@@ -100,7 +100,7 @@ const Contact = () => {
             <div class="container-s">
                 <Fade bottom duration={1000}>
                     <h1 className="white--header mobile">
-                        <span>Contact us and get your MTF360.io assesment today!</span>
+                        <span>Contact us and get your M360 assesment today!</span>
                     </h1>
                 </Fade>
                 <form
